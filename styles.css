@@ -14,7 +14,7 @@ p
 }
 body
 {
-    background-image: url('../coldplay.JPG');
+    background: url('.//coldplay.png');
 }
 .banner
 {
@@ -24,7 +24,7 @@ body
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url('../coldplay2.JPG');
+    background: url('.//coldplay2.png');
     background-size: cover;
 }
 .banner .content
